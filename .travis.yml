@@ -1,3 +1,4 @@
+language: fish
 before_install:
     - sudo apt-add-repository ppa:fish-shell/release-2 -y
     - sudo apt-get -q update
