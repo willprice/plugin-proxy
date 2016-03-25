@@ -1,5 +1,7 @@
 proxy plugin
 ============
+[![Build
+Status](https://travis-ci.org/willprice/plugin-proxy.svg?branch=master)](https://travis-ci.org/willprice/plugin-proxy)
 
 The proxy plugin provides a couple helper functions to those of us who are
 stuck behind HTTP/HTTPS/FTP proxies that require authentication.  The variables
