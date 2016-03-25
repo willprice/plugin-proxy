@@ -1,0 +1,5 @@
+before_install:
+    - sudo apt-add-repository ppa:fish-shell/release-2 -y
+    - sudo apt-get -q update
+    - sudo apt-get install fish
+script: fish tests/runner.fish
